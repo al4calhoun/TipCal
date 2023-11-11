@@ -16,7 +16,7 @@ namespace TipCalculator
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent();   //Initialze Form
             customTipGB.Hide();
             splitCheckGB.Hide();
             discountGB.Hide();
